@@ -1,0 +1,1 @@
+CREATE TABLE `christian`.`tbl` ( `name` VARCHAR(50) NULL , `age` INT NOT NULL , `bday` DATE NOT NULL , `gender` VARCHAR NOT NULL , `lrn` INT NULL , `date-time-created` DATETIME NOT NULL , `primarykey` INT NOT NULL ) ENGINE = InnoDB;
